@@ -1,1 +1,0 @@
-#example ephemeral script for bulk data load
